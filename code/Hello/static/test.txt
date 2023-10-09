@@ -1,0 +1,1 @@
+This is test file.. which is accesible to everyone... as it is placed in static folder, which is configured in setting as STATIC_URL.
